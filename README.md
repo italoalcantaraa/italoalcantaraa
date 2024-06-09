@@ -1,16 +1,13 @@
-## Hi there 👋
+# Italo Alcântara
 
-<!--
-**italoalcantaraa/italoalcantaraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Conecte-se comigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italo-alcantara/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i_alcantara_/)
 
-Here are some ideas to get you started:
+![](https://img.shields.io/badge/-@italoalcantara6@gmail.com-white?style=for-the-badge&logo=gmail&logoColor=red)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Iniciando Bootcamp Desenvolvimento Java com IA 
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=italoalcantaraa&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+### 🚀 Linguagens Mais Usadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italoalcantaraa&layout=compact&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
