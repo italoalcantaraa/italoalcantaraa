@@ -32,6 +32,14 @@ Me chamo Italo, tenho 19 anos e sou apaixonado por tecnologia. Atualmente curso 
 />
 <img 
     align="left" 
+    alt="MYSQL"
+    title="MYSQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://www.svgrepo.com/show/373848/mysql.svg" 
+/>
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
