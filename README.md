@@ -1,6 +1,6 @@
 # 👨🏽‍💻 Italo Alcântara
 
-**`Desenvolvedor`**
+**`Desenvolvedor de software`**
 
 Me chamo Italo, tenho 19 anos e sou apaixonado por tecnologia. Atualmente curso Análise e Desenvolvimento de Sistemas no Centro Universitário Senac – Santo Amaro e já concluí um curso técnico em Informática pela Instituição Nossa Senhora de Fátima. Estou em busca de uma oportunidade para aprender, crescer e contribuir na área de tecnologia.
 
