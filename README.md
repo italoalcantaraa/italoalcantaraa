@@ -1,102 +1,84 @@
-# 👨🏽‍💻 Italo Alcântara
+<h1 align="left">Hey 👋 I'm Italo</h1>
 
-**`Desenvolvedor de software`**
+###
 
-Me chamo Italo, tenho 19 anos e sou apaixonado por tecnologia. Atualmente curso Análise e Desenvolvimento de Sistemas no Centro Universitário Senac – Santo Amaro e já concluí um curso técnico em Informática pela Instituição Nossa Senhora de Fátima. Estou em busca de uma oportunidade para aprender, crescer e contribuir na área de tecnologia.
+<p align="left">👨🏽‍💻 Full Stack Developer</p>
 
----
+###
 
-### 🤖 Linguagens e Tecnologias
+<h2 align="left">About me</h2>
 
-<img 
-    align="left" 
-    alt="JAVA"
-    title="JAVA" 
-    width="30px" 
-    src="https://www.vectorlogo.zone/logos/java/java-icon.svg" 
-/>
-<img 
-    align="left" 
-    alt="SPRINGBOOT"
-    title="SPRINGBOOT" 
-    width="30px" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/768px-Spring_Boot.svg.png?20230616230349" 
-/>
-<img 
-    align="left" 
-    alt="POSTGRESQL"
-    title="POSTGRESQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/810px-Postgresql_elephant.svg.png?20080116191800" 
-/>
-<img 
-    align="left" 
-    alt="MYSQL"
-    title="MYSQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://www.svgrepo.com/show/373848/mysql.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<br/>
-<br/>
+###
 
-### 📊 Estatísticas
+<p align="left">My name is Italo, I am 20 years old, and I am passionate about technology. I am currently studying Systems Analysis and Development at Centro Universitário Senac – Santo Amaro and have already completed a technical course in Information Technology at Instituição Nossa Senhora de Fátima. I am looking for an opportunity to learn, grow, and contribute in the technology field.</p>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=italoalcantaraa&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
+###
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoalcantaraa&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<h2 align="left">Skills</h2>
 
-</p>
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="www.linkedin.com/in/italo-alcantara" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@italoalcantaraa" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/italoalcantaraa/italoalcantaraa/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/italoalcantaraa/italoalcantaraa/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=italoalcantaraa&locale=en&mode=daily&theme=gruvbox&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+</div>
+
+###
+
+<div align="center">
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/italoalcantaraa/italoalcantaraa/pacman-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/italoalcantaraa/italoalcantaraa/pacman-output/galaga-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/italoalcantaraa/italoalcantaraa/pacman-output/galaga-contribution-graph.svg">
+</picture>
+
+###
